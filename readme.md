@@ -14,8 +14,8 @@ window.open("http://malicious.com")
 
 
 ## Bypass ini bisa dilakukan jika kita sudah bisa mengontrol variabel pada javascript
-Example Vulnerable Code: 
-![Alt text](./1.png "Vulnerable Code")
+* Example Vulnerable Code: 
+    ![Alt text](./1.png "Vulnerable Code")
 
 ### Disini kita bisa memanggil function yang difilter dengan cara menyimpan objek dari function ke variable dahulu
 Example Payload :
